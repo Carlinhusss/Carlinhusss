@@ -1,4 +1,4 @@
-E aí! Eu sou o **Carlinhusss**.  
+## E aí! Eu sou o **Carlinhus**.  
 Meu foco principal é **LuaU**, a linguagem na qual eu sou mais especializado.
 Também sou um **VibeCoder** >:P.
 
