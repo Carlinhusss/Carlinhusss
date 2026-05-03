@@ -5,7 +5,7 @@ Meu GitHub é meu espaço para compartilhar essa jornada.
 
 ## 🚀 Coisas que eu sei
 - **LuaU** — linguagem usada principalmente no Roblox para criar jogos e experiências
-- **Git**  — versionamento e controle de código
+- **Git**ㅤ— versionamento e controle de código
 - (mais coisas chegando em breve...)
 
 ## 🎨 Sobre mim
